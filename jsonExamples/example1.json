@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "name": "Garnaga Vladislava",
+      "group": "1",
+      "avg": "4.25",
+      "debt":  [
+        "C++",
+        "Linux",
+        "Network"
+      ]
+    },
+    {
+      "name": "Ivanova Vasilisa",
+      "group": 31,
+      "avg": 2.25,
+      "debt": "python"
+    }
+  ],
+  "_meta": {
+    "count": 2
+  }
+}
